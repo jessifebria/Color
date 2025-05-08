@@ -11,6 +11,8 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
 {
     @IBOutlet weak var tableViewColor: UITableView!
     
+    // test
+    
     var arrayColor: [UIColor] = []
     var selectedIndexPath: IndexPath!
     
